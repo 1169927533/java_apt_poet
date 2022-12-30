@@ -1,0 +1,6 @@
+rootProject.name = 'JavaOpet'
+include 'java_apt'
+include 'java_poet'
+include 'arouter_annotation'
+include 'arouter_compiler'
+
